@@ -1,0 +1,23 @@
+AULA 1: React Components e AluraFlix
+
+https://www.alura.com.br/imersao-react/aula01-react-aluraflix?utm_campaign=imersao_react_aula_01&utm_medium=email&utm_source=RD+Station
+
+https://www.youtube.com/watch?time_continue=685&v=DQ3A2PTpDBU&feature=emb_logo
+
+*
+
+- Link para criar logos:
+https://fontmeme.com/netflix-font/
+
+- Link principal "React":
+https://pt-br.reactjs.org/
+
+- https://nodejs.org/
+
+- Google Fonts:
+https://fonts.google.com/
+
+- Comando para Iniciar:
+npm start
+
+- 
